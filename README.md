@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/lanchongyizu/lanchongyizu.github.io.svg)](https://travis-ci.org/lanchongyizu/lanchongyizu.github.io)
