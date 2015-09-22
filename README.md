@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/lanchongyizu/lanchongyizu.github.io.svg)](https://travis-ci.org/lanchongyizu/lanchongyizu.github.io)
+[![Build Status](https://travis-ci.org/lanchongyizu/lanchongyizu.github.io.svg?branch=master)](https://travis-ci.org/lanchongyizu/lanchongyizu.github.io)
