@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
+permalink: /about/
 ---
 
-This is built by using [Jekyll](http://jekyllrb.com/) with [Type Theme](https://rohanchandra.github.io/project/type).
-{: style="text-align: center;"}
-Taking notes is the only purpose.
-{: style="text-align: center;"}
-$lanchongyizu$
-{: style="text-align: center;"}
+Hi, my name is Jamie Zhuang. And I'm a committer of [RackHD](https://rackhd.github.io), and working at Dell EMC currently.
