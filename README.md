@@ -1,3 +1,2 @@
 [![Build Status](https://travis-ci.org/lanchongyizu/lanchongyizu.github.io.svg?branch=master)](https://travis-ci.org/lanchongyizu/lanchongyizu.github.io)
-
 [![Join the chat at https://gitter.im/lanchongyizu/lanchongyizu.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lanchongyizu/lanchongyizu.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
